@@ -1,0 +1,4 @@
+COMPANY_LOCATION = (35.6892, 51.3890) # Company location (latitude, longitude)
+BUS_CAPACITY = 20
+MAX_ROUTE_TIME = 60
+GOOGLE_API_KEY = "PUT_YOUR_API_KEY_HERE"

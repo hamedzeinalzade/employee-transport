@@ -27,6 +27,7 @@ The system converts employee addresses into optimized bus routes based on real t
 
 ## Project Structure
 
+```shell
 employee_transport/
 ├── app.py
 ├── core/
@@ -36,7 +37,7 @@ employee_transport/
 │   └── service.py
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
